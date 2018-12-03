@@ -16,6 +16,7 @@ linklist.cpp     linked list operations definations
 Basic tasks given were done 
 
 Additionally:
+Exception handing done on ALL INPUTS
 Operator loading utilized for + - * / == 
 In extra a friend size function and position exception handling function used 
 Emptying list
